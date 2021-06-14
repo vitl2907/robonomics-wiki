@@ -79,6 +79,8 @@
       items:
         - title_en: Try It Out
           link: /docs/spot-try-it-out
+        - title_en: Lesson 1. Robot Services 
+          link: /docs/spot-lesson1
 
 - title_en: Learn
   items:
