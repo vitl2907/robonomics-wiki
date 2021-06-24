@@ -14,7 +14,7 @@ In the first lesson you will learn how to use Spot services and control Spot's b
 
 ## Connection
 
-To control Spot you need to connect to Spot Core. Go to this [link](https://\[200:c32a:e1ac:1da2:15ed:626f:c1e0:36ed\]:21443) and log in with your username and password (you can do that only with working yggdrasil). 
+To control Spot you need to connect to Spot Core. Go to this link (https://[200:c32a:e1ac:1da2:15ed:626f:c1e0:36ed]:21443) and log in with your username and password (you can do that only with working yggdrasil). 
 
 ![log_in](../images/spot/less1-login.jpg)
 
@@ -22,7 +22,7 @@ Then go to `terminal` tab. There you can use python spot-sdk to control Spot.
 
 ![terminal](../images/spot/less1-terminal.png)
 
-Also you can see what robot do in real time [stream](http://\[200:b99e:a736:e3bf:744c:6acb:ec11:9dc\]:8081/0/stream).
+Also you can see what robot do in real time stream (http://[200:b99e:a736:e3bf:744c:6acb:ec11:9dc]:8081/0/stream).
 
 ## Documentation
 
