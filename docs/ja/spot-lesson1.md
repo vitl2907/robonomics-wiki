@@ -10,6 +10,8 @@ In the first lesson you will learn how to use Spot services and control Spot's b
 
 * Yggdrasil (installation instructions [here](https://yggdrasil-network.github.io/installation.html))
 
+> For MacOS install .pkg file from the latest [release](https://github.com/yggdrasil-network/yggdrasil-go/releases)
+
 ## Connection
 
 To control Spot you need to connect to Spot Core. Go to this [link](https://[200:c32a:e1ac:1da2:15ed:626f:c1e0:36ed]:21443) and log in with your username and password (you can do that only with working yggdrasil). 
